@@ -41,6 +41,7 @@ Speed up the development of your idea by using these tools.
 - ![closed source](https://img.shields.io/badge/closed%20source-white) [AssemblyAI](https://www.assemblyai.com/) — Build AI applications with voice data. Access our superhuman AI models for speech recognition, automatic transcription, speech summarization, and more through our secure and scalable API.
 - ![closed source](https://img.shields.io/badge/closed%20source-white) [PlayHT](https://play.ht/) — Generate AI Voices, Indistinguishable from Humans.
 - ![closed source](https://img.shields.io/badge/closed%20source-white) [Midjourney](https://www.midjourney.com/) — Best text-to-image model in the world.
+- ![closed source](https://img.shields.io/badge/closed%20source-white) [Ideogram](https://ideogram.ai/) — Text-to-image model able to create images containing text. Very easy to use.
 - [AE ChatUI](https://chatai.ae.studio/) - Our own self hosted version of ChatUI (Login with your AE email and it's basically a ChatGPT with cool things)
 - [Civitai](https://civitai.com/) — Stable diffusion checkpoints and LORA models.
 - [GhostlyStock](https://www.ghostlystock.com/) - Image Generation
