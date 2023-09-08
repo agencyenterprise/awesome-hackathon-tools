@@ -8,6 +8,7 @@ Speed up the development of your idea by using these tools.
 - [SDS Content Generator](https://sds-content-generator.vercel.app/) - Generate content for Hacker News and SEO
 - [Metatags.io](http://metatags.io/) - View how SEO looks and generate metatags
 - [RapidAPI](https://rapidapi.com/) - A lot of great API’s that can help on your project
+- [Glitch](https://glitch.com/) - The fastest way to develop and host a web app. Deploys as you type. Perfect for [slack apps](https://glitch.com/edit/#!/remix/slack-bolt-hello-world).
 
 ## Domains
 - [@SlackDomain](https://agencyenterprise.slack.com/team/U03G8EVLPEX) - Buy and manage domains easily via Slack - already installed to AE’s Slack
@@ -44,7 +45,9 @@ Speed up the development of your idea by using these tools.
 - [Civitai](https://civitai.com/) — Stable diffusion checkpoints and LORA models.
 - [GhostlyStock](https://www.ghostlystock.com/) - Image Generation
 - [Replicate](https://replicate.com/) - Image Generation/Edition AI models
+- ![open source](https://img.shields.io/badge/open%20source-42f595) [AI Getting Started](https://github.com/a16z-infra/ai-getting-started) - A template / stack of tools a16z recommends for startups building AI apps.
 
 # Others
 - [Zapier](https://zapier.com/) - Automate your work without code
 - [Vercel AI SDK](https://github.com/vercel/ai) — Library for building AI-powered streaming text and chat UIs. ⚠️ We're not hosting hackathon apps using Vercel this time ⚠️
+- [Supabase](https://supabase.com) - Postgres-powered BaaS with some cool realtime and vector db features.
