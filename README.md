@@ -45,6 +45,6 @@ Speed up the development of your idea by using these tools.
 - [GhostlyStock](https://www.ghostlystock.com/) - Image Generation
 - [Replicate](https://replicate.com/) - Image Generation/Edition AI models
 
-
 # Others
+- [Zapier](https://zapier.com/) - Automate your work without code
 - [Vercel AI SDK](https://github.com/vercel/ai) — Library for building AI-powered streaming text and chat UIs. ⚠️ We're not hosting hackathon apps using Vercel this time ⚠️
