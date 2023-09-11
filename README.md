@@ -48,7 +48,10 @@ Speed up the development of your idea by using these tools.
 - [Replicate](https://replicate.com/) - Image Generation/Edition AI models
 - ![open source](https://img.shields.io/badge/open%20source-42f595) [AI Getting Started](https://github.com/a16z-infra/ai-getting-started) - A template / stack of tools a16z recommends for startups building AI apps.
 
-# Others
+## Development
+- [Cursor](https://www.cursor.so/) - AI-first code editor / IDE (wrapper on top of VSCode with some awesome features)
+
+## Others
 - [Zapier](https://zapier.com/) - Automate your work without code
 - [Vercel AI SDK](https://github.com/vercel/ai) — Library for building AI-powered streaming text and chat UIs. ⚠️ We're not hosting hackathon apps using Vercel this time ⚠️
 - [Supabase](https://supabase.com) - Postgres-powered BaaS with some cool realtime and vector db features.
